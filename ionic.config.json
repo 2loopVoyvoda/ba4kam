@@ -1,0 +1,8 @@
+{
+  "name": "Axyles Map: Friends, Events, Music and Community",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ac00c576"
+}

@@ -1,0 +1,18 @@
+{
+  "appId": "com.axyles.app",
+  "appName": "Axyles Map",
+  "webDir": "build",
+  "npmClient": "npm",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "GoogleAuth": {
+      "scopes": [
+        "profile",
+        "email"
+      ],
+      "iosClientId": "798131607860-u887v1e2op2euehigpc02u379si3kc2g.apps.googleusercontent.com",
+      "serverClientId": "798131607860-v9tmco6ubgtssn3618t1610vetc2t1kd.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": true
+    }
+  }
+}
